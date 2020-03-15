@@ -33,4 +33,4 @@ For save = 0, the response code is 204 no content, for save = 1 the response is 
     
    }
    
-Aptfile is important to solve issues with installing OpenCV on Heroku.
+Aptfile is important to solve issues with installing OpenCV on Heroku. After using the heroku-buildpack-apt from this link https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-apt
